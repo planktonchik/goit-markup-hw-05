@@ -501,6 +501,68 @@ img {
 .footer-media-link:focus {
   background-color: #31d0aa;
 }
+/****/
+.footer-sub-wrapper {
+  margin-left: 80px;
+}
+.footer-sub-text {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #ffffff;
+  margin-bottom: 16px;
+}
+.footer-sub-form {
+  display: flex;
+  gap: 24px;
+}
+.footer-sub-input {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 2;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  background-color: transparent;
+  min-width: 264px;
+  min-height: 40px;
+  flex-shrink: 0;
+  padding-left: 16px;
+  border-radius: 4px;
+  border: 1px solid #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  outline: none;
+}
+.footer-sub-input::placeholder {
+  color: #ffffff;
+}
+.footer-sub-btn {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  background-color: #4d5ae5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 40px;
+  min-width: 165px;
+  padding: 8px 24px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.footer-sub-btn:hover,
+.footer-sub-btn:focus {
+  background-color: #404bbf;
+}
+.footer-sub-icon {
+  fill: #ffffff;
+  margin-left: 16px;
+}
 /*Modal */
 .modal-overlay {
   position: fixed;

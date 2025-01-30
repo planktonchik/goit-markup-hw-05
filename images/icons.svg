@@ -44,6 +44,8 @@
 <symbol id="icon-Vector" viewBox="0 0 32 32">
 <path fill="#4d5ae5" style="fill: var(--color1, #4d5ae5)" d="M16 16c4.418 0 8-3.582 8-8s-3.582-8-8-8v0c-4.418 0-8 3.582-8 8s3.582 8 8 8v0zM16 20c-5.339 0-16 2.68-16 8v2c0 1.099 0.901 2 2 2h28c1.099 0 2-0.901 2-2v-2c0-5.32-10.661-8-16-8z"></path>
 </symbol>
-
+<symbol id="icon-icon-send" viewBox="0 0 38 32">
+<path fill="#fff" style="fill: var(--color1, #fff)" d="M38.4 0l-38.4 18 12.272 3.787 18.928-14.787-14.397 16.186 0.011 0.005-0.014-0.005v8.814l6.882-6.691 8.72 2.691 5.998-28z"></path>
+</symbol>
 </defs>
 </svg>
